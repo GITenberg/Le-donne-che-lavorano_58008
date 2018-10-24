@@ -1,0 +1,24 @@
+_repo: Le-donne-che-lavorano_58008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Treves, Virginia
+    alias: Cordelia
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '25366'
+    url: http://www.gutenberg.org/2009/agents/25366
+description: ''
+gutenberg_bookshelf: IT Psicologia e Sociologia
+gutenberg_issued: '2018-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58008'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le donne che lavorano
+url: http://www.gutenberg.org/ebooks/58008
